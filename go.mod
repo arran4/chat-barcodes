@@ -1,4 +1,4 @@
-module awesomeProject36
+module github.com/arran4/chat-barcodes
 
 go 1.25
 
